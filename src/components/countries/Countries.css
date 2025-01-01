@@ -7,3 +7,9 @@
 .visited {
     background-color: bisque;
 }
+
+.flag-container img {
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+}
